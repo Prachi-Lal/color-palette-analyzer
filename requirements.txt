@@ -1,0 +1,6 @@
+colorthief
+matplotlib
+replicate
+fastapi
+uvicorn
+fastapi[standard]
